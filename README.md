@@ -13,9 +13,9 @@ I am a passionate **MERN Stack Developer** who loves building full‑stack, scal
   <a href="www.linkedin.com/in/labiballtasfi" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
-  <a href="https://x.com/labiballtasfi>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" />
-  </a>
+<a href="https://x.com/labiballtasfi">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" />
+</a>
   <a href="https://www.facebook.com/labibaltasfii" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" />
   </a>
