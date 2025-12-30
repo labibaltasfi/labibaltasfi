@@ -1,6 +1,17 @@
+<p align="left">
+  <a href="www.linkedin.com/in/labiballtasfi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+  <a href="https://twitter.com/labiballtasfi>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" />
+  </a>
+  <a href="https://www.facebook.com/labibaltasfii" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" />
+  </a>
+</p>
+
 ## Hi there 👋
 
-<!--
 **labibaltasfi/labibaltasfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
