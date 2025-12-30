@@ -1,8 +1,19 @@
+
+# Hi 👋, I'm Labib Al Tasfi
+
+## 🚀 MERN Stack Developer
+
+I am a passionate **MERN Stack Developer** who loves building full‑stack, scalable, and user‑friendly web applications. I enjoy learning new technologies and improving my problem‑solving skills every day.
+
+---
+
+## 🌐 Connect with me
+
 <p align="left">
   <a href="www.linkedin.com/in/labiballtasfi" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
-  <a href="https://twitter.com/labiballtasfi>
+  <a href="https://x.com/labiballtasfi>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" />
   </a>
   <a href="https://www.facebook.com/labibaltasfii" target="_blank">
@@ -10,18 +21,24 @@
   </a>
 </p>
 
-## Hi there 👋
+---
 
-**labibaltasfi/labibaltasfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+* **Frontend:** React, Tailwind CSS, DaisyUI, HTML, CSS
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **Auth & Tools:** Firebase, JWT, GitHub, Stripe
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning MERN Stack (MongoDB, Express.js, React, Node.js)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 📌 Current Focus
+
+* Building MERN stack projects
+* Improving backend performance
+* Learning best practices & clean architecture
+
+---
+
+⭐ Feel free to check out my repositories and connect with me!
 
