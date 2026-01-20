@@ -1,4 +1,6 @@
-![Banner]([https://github.com/your-username/your-repo/blob/main/banner.png?raw=true](https://i.ibb.co.com/FL45jBrT/Chat-GPT-Image-Dec-31-2025-03-38-28-AM.png))
+<p align="center">
+  <img src="https://i.ibb.co.com/FL45jBrT/Chat-GPT-Image-Dec-31-2025-03-38-28-AM.png" alt="Banner" width="100%">
+</p>
 
 
 ---
