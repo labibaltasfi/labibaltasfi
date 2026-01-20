@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Labib Al Tasfi</h1>
-<h3 align="center">MERN Stack Developer | Full-Stack Web Engineer</h3>
+![Banner]([https://github.com/your-username/your-repo/blob/main/banner.png?raw=true](https://i.ibb.co.com/FL45jBrT/Chat-GPT-Image-Dec-31-2025-03-38-28-AM.png))
 
-<p align="center">
-Building scalable, user-friendly web applications with modern JavaScript technologies.
-</p>
 
 ---
 
