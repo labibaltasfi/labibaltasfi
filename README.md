@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/jk88GCbc/labib-al-tasfi.png" alt="Banner" width="100%">
+  <img src="https://i.ibb.co.com/gbSpJgyZ/labib-al-tasfi.png" alt="Banner" width="100%">
 </p>
 
 
