@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I’m **Labib Al Tasfi**, a passionate **MERN Stack Developer** with hands-on experience in building full-stack web applications.  
+I’m **Labib All Tasfi**, a passionate **MERN Stack Developer** with hands-on experience in building full-stack web applications.  
 I enjoy working across both frontend and backend—designing clean user interfaces, developing secure REST APIs, and ensuring smooth application performance.
 
 I’m continuously learning new technologies and best practices to write clean, maintainable, and scalable code.
